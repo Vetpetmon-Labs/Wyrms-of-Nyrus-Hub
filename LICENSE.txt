@@ -4,7 +4,7 @@ COPYRIGHT: (c) Vetpetmon Labs, 2023-2033 (effective years)
 
 NOTES: This is a modified ARR-based license.
 
-SHORTHAND: CL-ARR-NR-3
+SHORTHAND: CL-ARR-NR
 [ClosedLabs - All Rights Reserved - No Redistribution]
 
 ==================
