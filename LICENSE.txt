@@ -58,9 +58,12 @@ limited to Google Drive, MEGA, or via torrent.
 You are free to make videos, artwork, or addons building up onto
 this product. You are free to monetize third-party content as long
 as you give credit to Vetpetmon Labs or link to the product's
-official place of distribution.
+official place of distribution. You are not allowed to replicate, 
+modify, or copy any assets (models, textures, sounds, music, 
+animations) that are a part of this repository. You are allowed to 
+reference asset files through the public API.
 
-You are allowed to make a derrivative work (modpack) that refers 
+You are allowed to make a derivative work (modpack) that refers 
 to the link of this mod's repository for downloading it, but do 
 note that you will not receive any official support for this method. 
 Third party launchers are allowed to reference to this product, but 
