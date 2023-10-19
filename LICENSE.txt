@@ -1,10 +1,10 @@
-LICENSE: ClosedLabs, Version 4
+LICENSE: ClosedLabs, Version 5
 
 COPYRIGHT: (c) Vetpetmon Labs, 2021-2033 (effective years)
 
 NOTES: This is a custom ARR-based license for our Minecraft Mods.
 
-SHORTHAND: CL-ARR-NR-4
+SHORTHAND: CL-ARR-NR-5
 [ClosedLabs - All Rights Reserved - No Redistribution]
 
 			==================
@@ -76,8 +76,8 @@ that are a part of this repository.
 
 Minecraft-specific: You are allowed to make your own resource packs
 for this Product as long as it is transformative and does not copy the
-exact Assets in question. As long as official assets are not redistributing
-it, it is permitted without needed permission, so long as 
+exact Assets in question. As long as you are not redistributing official
+Assets, it is permitted without needed permission, so long as credit is given.
 
 YOU MUST ASK FOR PERMISSION IF YOU ARE GOING TO REDISTRIBUTE THE PRODUCT
 DIRECTLY (NOT BY LINK/URL) BY JAR OR OTHER EXECUTABLE FORMAT. Do note that 
