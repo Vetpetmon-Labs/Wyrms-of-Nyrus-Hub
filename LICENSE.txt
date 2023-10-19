@@ -21,8 +21,8 @@ overrides any version of OpenLabs and previous ClosedLabs in every case.
 This product originates in Central Florida, United States.
 This license will be applied in foreign countries as much as possible.
 
-> "Product" refers to any official game, merchandise, or media content
-    created by Vetpetmon Labs and is licensed under the SNAZverse name.
+> "Product" refers to any official game, merchandise, software, or media 
+   content created by Vetpetmon Labs and is licensed under the SNAZverse name.
 
 > "ETB" refers to Early Testing builds, exclusive to this product. ETBs
     are only accessible to donators.
