@@ -27,6 +27,9 @@ This license will be applied in foreign countries as much as possible.
 > "ETB" refers to Early Testing builds, exclusive to this product. ETBs
     are only accessible to donators.
 
+> "Assets" refers to any textures, music, models, sound files, models,
+  and animation files found in this Product.
+
 YOU MAY NOT USE ANY OF THE TRADEMARKS OF VETPETMON LABS AND ITS PRODUCTS
 WITHOUT PERMISSION FROM VETPETMON LABS. THIS INCLUDES SNAZ OS, VETPETMON,
 AND ANY VETPETMON LABS LOGO UNLESS IF FOR CREDITING PURPOSES.
@@ -36,24 +39,29 @@ will not be responsible for any damage the product does, or any damage
 you do to it.
 
 By using an ETB, you agree to use it at your own risk. Things will change,
-things will break, and product stability is not a guarantee. We will NOT
+things will break, and Product stability is not a guarantee. We will NOT
 be held responsible for any damage the product does.
 
 		========================================
 		 SECTION B: COPYRIGHT AND PRODUCT USAGE
 		========================================
 
-DO NOT REDISTRIBUTE THE PRODUCT WITHOUT THE AUTHOR'S PERMISSION. FAILURE 
-TO FOLLOW THIS LICENSE AS AN OUTSIDE PARTY OR FAILURE TO GET THE AUTHOR'S 
-PERMISSION WILL RESULT IN A TAKEDOWN NOTICE. THERE ARE NO EXCEPTIONS.
+THERE ARE CASES WHERE REDISTRIBUTION IS NOT ALLOWED.
 
-This includes, but is not limited to:
+Redistribution is defined as:
+The replication or copying of the original code, assets, or executable 
+file of the product, and uploading the file(s) to another platform or 
+distributor. Downloading the Product from an approved vendor or provider 
+by link/URL is NOT redistribution.
 
-    - Curseforge modpacks packaging the software
-        - This is due to their ToS and policy on third parties.
 
-    - Uploads on other, unauthorized sites, including, but not
-	limited to Google Drive, MEGA, or via torrent.
+Examples of redistribution, which is not allowed, include:
+
+    - Modpacks packaging the jar file of the mod instead of providing
+      a link that third party software can use to download the Product.
+      
+    - Extracting and uploading the Product's Assets to another website,
+      if not changed in a transformative way.
 
 Legal protections are applied strongest to the Assets (models, textures, 
 sounds, music, animations, etc.) of this Product.
@@ -63,19 +71,27 @@ You are free to make videos, artwork, or addons building up onto
 this product. You are free to monetize third-party content as long
 as you give credit to Vetpetmon Labs or link to the product's
 official place of distribution. You are not allowed to replicate,
-modify, or copy any Assets (models, textures, sounds, music,
-animations) that are a part of this repository. 
+or copy any Assets (models, textures, sounds, music, animations) 
+that are a part of this repository. 
 
-You must ask for the author's permission before using these mods as a
-library or dependency for your own derrivative works. Do note that Assets
-and Code created by Vetpetmon Labs will still be under ClosedLabs and
-must not be replicated or copied in your derrivative work. You are allowed 
-to reference asset files through a public API, if present.
+Minecraft-specific: You are allowed to make your own resource packs
+for this Product as long as it is transformative and does not copy the
+exact Assets in question. As long as official assets are not redistributing
+it, it is permitted without needed permission, so long as 
 
-You are allowed to make a derivative work that refers to the link of this 
+YOU MUST ASK FOR PERMISSION IF YOU ARE GOING TO REDISTRIBUTE THE PRODUCT
+DIRECTLY (NOT BY LINK/URL) BY JAR OR OTHER EXECUTABLE FORMAT. Do note that 
+Assets and Code created by Vetpetmon Labs will still be under ClosedLabs 
+and must not be copied in your derrivative work. You are allowed to 
+reference asset files through a public API, if present.
+
+You are allowed to make a derivative work that uses link or URL of this 
 Product's official distributors (such as: Modrinth, GitHub, Vetpetmon.com) 
-for downloading it. Third party software is allowed to reference to this 
-product. 
+for downloading it. Third party software is given the same permission.
+YOU DO NOT NEED TO ASK FOR PERMISSION TO DOWNLOAD FROM THE APPROVED
+DISTRIBUTORS. THIRD PARTY SOFTWARE LIKE INSTANCE LAUNCHERS AND SOFTWARE
+SUCH AS "Mod Director" AND "File Director" ARE ALLOWED TO USE THE
+APPROVED LINKS/URLS TO DOWNLOAD THE MOD FROM.
 
 ETBs are absolutely NOT referencable for third party loaders, and are built 
 specifically for testing use ONLY, not for public release. Stable product 
