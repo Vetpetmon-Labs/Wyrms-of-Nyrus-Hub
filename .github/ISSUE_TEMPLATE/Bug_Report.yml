@@ -20,7 +20,7 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen? Please be as discriptive as possible and provide steps to reproduce.
       placeholder: Tell us what you see!
-      value: " "
+      value: "Enter a description and steps to reproduce the error here"
     validations:
       required: true
   - type: dropdown
