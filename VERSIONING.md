@@ -61,27 +61,28 @@ your own risk.
 
 ## Projections
 *(Note: These are predictions that may not reflect actual results)*
-0.8.x EoL (December 2025)
-0.9.x Stable (August 2025)
-0.9.x Indev (April 2025)
-0.8.x LTS (March 2025)
-0.8.x Stable (January 2025)
-0.7.x LTS (December 2025)
-0.8.x Indev (November 2024)
+
+- 0.8.x EoL (December 2025)
+- 0.9.x Stable (August 2025)
+- 0.9.x Indev (April 2025)
+- 0.8.x LTS (March 2025)
+- 0.8.x Stable (January 2025)
+- 0.7.x LTS (December 2025)
+- 0.8.x Indev (November 2024)
 
 ## Indev
-0.7.x
+- 0.7.x
 
 ## Stable
-0.7.x
+- 0.7.x
 
 ## LTS
 None
 
 ## EoL
-0.6.x (Never left Indev)
-0.5.x (Stable began in Nov 2023, LTS ended in July 2024)
-0.4.x (Never left Indev)
-0.3.x (no LTS)
-0.2.x (no LTS)
-0.1.x (no LTS)
+- 0.6.x (Never left Indev)
+- 0.5.x (Stable began in Nov 2023, LTS ended in July 2024)
+- 0.4.x (Never left Indev)
+- 0.3.x (no LTS)
+- 0.2.x (no LTS)
+- 0.1.x (no LTS)
