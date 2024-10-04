@@ -1,6 +1,6 @@
 LICENSE: ClosedLabs, Version 5
 
-COPYRIGHT: (c) Vetpetmon Labs, 2021-2033 (effective years)
+COPYRIGHT: (c) Vetpetmon Labs, 2024-2034 (effective years)
 
 NOTES: This is a custom ARR-based license for our Minecraft Mods.
 
@@ -10,8 +10,6 @@ SHORTHAND: CL-ARR-NR-5
 			==================
 			 SECTION A: LEGAL
 			==================
-
-	ClosedLabs has been enforced in multiple cases before.
 
 With all the translations of this license and usage guidelines, the latest 
 American English version will rule supreme in any case. ClosedLabs extends 
@@ -86,11 +84,11 @@ and must not be copied in your derrivative work. You are allowed to
 reference asset files through a public API, if present.
 
 You are allowed to make a derivative work that uses link or URL of this 
-Product's official distributors (such as: Modrinth, GitHub, Vetpetmon.com) 
-for downloading it. Third party software is given the same permission.
-YOU DO NOT NEED TO ASK FOR PERMISSION TO DOWNLOAD FROM THE APPROVED
-DISTRIBUTORS. THIRD PARTY SOFTWARE LIKE INSTANCE LAUNCHERS AND SOFTWARE
-SUCH AS "Mod Director" AND "File Director" ARE ALLOWED TO USE THE
+Product's official distributors (such as: Modrinth, GitHub, Vetpetmon.com,
+Curseforge) for downloading it. Third party software is given the same 
+permission. YOU DO NOT NEED TO ASK FOR PERMISSION TO DOWNLOAD FROM THE 
+APPROVED DISTRIBUTORS. THIRD PARTY SOFTWARE LIKE INSTANCE LAUNCHERS AND 
+SOFTWARE SUCH AS "Mod Director" AND "File Director" ARE ALLOWED TO USE THE
 APPROVED LINKS/URLS TO DOWNLOAD THE MOD FROM.
 
 ETBs are absolutely NOT referencable for third party loaders, and are built 
@@ -100,14 +98,13 @@ versions are free to download, ETB products are only provided to donators.
 IF YOU PAID TO DOWNLOAD A NON-ETB VERSION OF THIS PRODUCT, SEEK
 A FULL REFUND IMMEDIATELY. 
 
-MERCHANDISE IS ONLY ALLOWED TO BE DISTRIBUTED AND SOLD BY
-VETPETMON LABS. VETPETMON LABS IS THE SOLE OWNER OF THE SNAZVERSE
-IP AND RESERVES ALL RIGHTS.
+MERCHANDISE IS ONLY ALLOWED TO BE DISTRIBUTED AND SOLD BY VETPETMON LABS
+AND ANYONE ASSOCIATED (Example: Modrome). VETPETMON LABS IS THE SOLE 
+OWNER OF THE SNAZVERSE IP AND RESERVES ALL RIGHTS TO COMMERCIALIZE.
 
-A Cease and Desist or DMCA notice will be sent via the
-legal@vetpetmon.com email address if needed. Failure to
-abide by the Cease and Desist order will result in further
-legal action.
+A Cease and Desist or DMCA notice will be sent via the legal@vetpetmon.com 
+email address if needed. Failure to abide by the Cease and Desist or DMCA 
+order will result in further legal action.
 
 ANY REMOVAL OF THIS LICENSE, CHANGING THE LICENSE ON REDIRSTIBUTION 
 THE EULA, INCLUDED DRM, AND/OR AUTHOR CREDITS WILL BE CONSIDERED A 
@@ -116,7 +113,7 @@ DRM WILL ADDITIONALLY COUNT AS CONFIRMATION OF ILL INTENT.
 
 		==================================
 
-Forge/Fabric/Quilt Modloaders are not packaged with this mod,
+Forge/Fabric/Quilt Modloaders are not packaged with this product,
 and all other products that are not related to this product have
 their own licenses. Please review the licenses for those products,
 as any third party is not bundled with our software.
