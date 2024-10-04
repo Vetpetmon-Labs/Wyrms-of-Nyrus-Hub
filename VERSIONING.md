@@ -12,15 +12,20 @@ Generally speaking, every time Major and Minor points increment,
 you are expected to make a new world to prevent breaking changes.
 
 ## Indev
+
+This is a *channel*, not a version status. This is the rolling release 
+model of Wyrms of Nyrus for "In-development" versions.
 No-one but the devs, contributors, and donators see these builds. These 
 builds are NOT production ready and should never be released publicly 
-until determined to not contain breaking changes.
+until determined to not contain breaking changes. The slightly less-
+frequently uploaded Indev builds are called Early Testing Builds (ETBs) 
+and are not rolling release.
 
 If breaking changes are unavoidable, the Indev build moves up a point 
 in Minor, and Patch is reset to 0. When this happens, Stable gets switched 
 to the Long Term Support status and model.
 
-Indev is updated near-daily. Do not rely on it.
+Indev is updated near-daily. Do not rely on it to be stable or work.
 
 ## Stable
 
