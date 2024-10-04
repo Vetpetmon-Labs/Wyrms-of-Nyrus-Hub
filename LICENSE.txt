@@ -70,7 +70,10 @@ this product. You are free to monetize third-party content as long
 as you give credit to Vetpetmon Labs or link to the product's
 official place of distribution. You are not allowed to replicate,
 or copy any Assets (models, textures, sounds, music, animations) 
-that are a part of this repository. 
+that are a part of this repository without permission, unless if you
+abide by the content creator guidelines, which can be reviewed at:
+
+https://vetpetmon.com/WoN_contentCreatorGuidelines.html
 
 Minecraft-specific: You are allowed to make your own resource packs
 for this Product as long as it is transformative and does not copy the
