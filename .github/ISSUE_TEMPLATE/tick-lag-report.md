@@ -18,7 +18,7 @@ In milliseconds (ms), how bad was the lag spike?
 x ms
 
 # SINGLEPLAYER OR SERVER
-Are you on a client? (y/n): 
+Are you on singleplayer? (y/n): 
 
 # STEPS TO REPRODUCE
 Please list what you did, or what the AI or mechanic was doing to cause the lag spike.
