@@ -72,11 +72,11 @@ your own risk.
 - 0.9.x Indev (April 2025)
 - 0.8.x LTS (March 2025)
 - 0.8.x Stable (January 2025)
-- 0.7.x LTS (December 2025)
+- 0.7.x LTS (December 2024)
 - 0.8.x Indev (November 2024)
 
 ## Indev
-- 0.7.x
+- 0.7.4x
 
 ## Stable
 - 0.7.x
