@@ -45,7 +45,7 @@ body:
         - Memory leak
         - FPS drop/render lag
         - TPS drop/world lag
-        - Broke a mod mechanic
+        - Balance/Gameplay-affecting
         - Unexpected log spam
         - Visual
     validations:
