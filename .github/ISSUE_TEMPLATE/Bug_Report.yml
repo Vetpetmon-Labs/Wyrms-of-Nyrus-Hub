@@ -29,8 +29,8 @@ body:
       label: Version
       description: What version of this mod are you running?
       options:
-        - 0.7.x (Testing branch)
-        - 0.7.x (Stable)
+        - 0.8.x (Stable, LTS)
+        - 0.7.x (EoL)
         - 0.5.x (EoL)
     validations:
       required: true
