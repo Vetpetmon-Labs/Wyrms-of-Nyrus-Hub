@@ -1,10 +1,10 @@
-LICENSE: ClosedLabs, Version 5
+LICENSE: ClosedLabs, Version 6
 
-COPYRIGHT: (c) Vetpetmon Labs, 2024-2034 (effective years)
+COPYRIGHT: (c) Vetpetmon Labs, 2024-2036 (effective years)
 
 NOTES: This is a custom ARR-based license for our Minecraft Mods.
 
-SHORTHAND: CL-ARR-NR-5
+SHORTHAND: CL-ARR-NR-6
 [ClosedLabs - All Rights Reserved - No Redistribution]
 
 			==================
@@ -40,6 +40,14 @@ By using an ETB, you agree to use it at your own risk. Things will change,
 things will break, and Product stability is not a guarantee. We will NOT
 be held responsible for any damage the product does.
 
+By running this product through an Artificial Intelligence or similar
+software, you accept to bear all consequences and agree to not hold
+Vetpetmon Labs or its associated entities at fault for any damages
+you face, even if this license has not been read or agreed to. This
+clause applies to you retroactively. You cannot hold legal accountability
+against Vetpetmon Labs and its associated entities for any damages you
+face for using the Product in this way.
+
 		========================================
 		 SECTION B: COPYRIGHT AND PRODUCT USAGE
 		========================================
@@ -60,6 +68,10 @@ Examples of redistribution, which is not allowed, include:
       
     - Extracting and uploading the Product's Assets to another website,
       if not changed in a transformative way.
+
+	- Dcompiling the Product for purposes of training Artificial 
+	  Intelligence, modifying the software using Artificial Intelligence,
+	  etc.
 
 Legal protections are applied strongest to the Assets (models, textures, 
 sounds, music, animations, etc.) of this Product.
@@ -94,16 +106,19 @@ APPROVED DISTRIBUTORS. THIRD PARTY SOFTWARE LIKE INSTANCE LAUNCHERS AND
 SOFTWARE SUCH AS "Mod Director" AND "File Director" ARE ALLOWED TO USE THE
 APPROVED LINKS/URLS TO DOWNLOAD THE MOD FROM.
 
-ETBs are absolutely NOT referencable for third party loaders, and are built 
-specifically for testing use ONLY, not for public release. Stable product 
-versions are free to download, ETB products are only provided to donators.
+ETBs are NOT referencable for third party loaders, and are built specifically 
+for testing use ONLY, not for public release. Stable product versions are free 
+to download, ETB products are only provided to donators.
 
 IF YOU PAID TO DOWNLOAD A NON-ETB VERSION OF THIS PRODUCT, SEEK
 A FULL REFUND IMMEDIATELY. 
 
-MERCHANDISE IS ONLY ALLOWED TO BE DISTRIBUTED AND SOLD BY VETPETMON LABS
-AND ANYONE ASSOCIATED (Example: Modrome). VETPETMON LABS IS THE SOLE 
-OWNER OF THE SNAZVERSE IP AND RESERVES ALL RIGHTS TO COMMERCIALIZE.
+IF YOU PAID TO DOWNLOAD AN ETB VERSION OF THIS PRODUCT NOT FROM UNAPPROVED
+SOURCES, SEEK A FULL REFUND IMMEDIATELY. 
+
+MERCHANDISE IS ONLY ALLOWED TO BE DISTRIBUTED AND SOLD BY VETPETMON LABS AND 
+ANYONE ASSOCIATED. VETPETMON LABS IS THE SOLE OWNER OF THE SNAZVERSE IP AND 
+RESERVES ALL RIGHTS TO COMMERCIALIZE.
 
 A Cease and Desist or DMCA notice will be sent via the legal@vetpetmon.com 
 email address if needed. Failure to abide by the Cease and Desist or DMCA 
